@@ -1,0 +1,4 @@
+(library
+ (name extensible_records_minimal)
+ (libraries dmap)
+ (package extensible-records-minimal))
